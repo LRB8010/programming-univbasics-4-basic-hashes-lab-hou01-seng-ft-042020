@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-soup = {:Cambels => "Chicken Soup"}
+  pioneer = {:name = "Grace Hopper"}
 end
 
 
