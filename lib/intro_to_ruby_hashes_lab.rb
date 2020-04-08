@@ -3,6 +3,7 @@ def new_hash
 end
 
 def my_hash
+  family = {"Food" => "Pizza"}
 end
 
 def pioneer
