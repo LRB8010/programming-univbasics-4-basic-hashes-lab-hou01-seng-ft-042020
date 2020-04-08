@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  family = {dad: => luis, mom: => alicia, baby: gavin}
+  family = {dad: => "Luis"}
 end
 
 def pioneer
